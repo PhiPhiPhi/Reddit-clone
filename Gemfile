@@ -61,7 +61,7 @@ end
 gem 'record_tag_helper', '~> 1.0'
 gem 'simple_form', '~> 4.0'
 gem 'acts_as_votable', '~> 0.11.1'
-gem 'devise', '~> 4.4', '>= 4.4.3'
+gem 'devise', '~> 4.7'
 gem 'jquery', '~> 0.0.1'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
