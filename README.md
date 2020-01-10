@@ -48,13 +48,13 @@ Distributed under the MIT License. See https://opensource.org/licenses/MIT for m
 
 Philippe Odoubadé - philippejide@outlook.com - phika2013@gmail.com
 
-Project Link: [https://github.com/PhiPhiPhi/old-apple-clone](https://github.com/PhiPhiPhi/old-apple-clone)
+Project Link: [https://github.com/PhiPhiPhi/Reddit-clone](https://github.com/PhiPhiPhi/Reddit-clone)
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## Acknowledgements
 
-- apple.com for icons
+- Mackenzie Child
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
