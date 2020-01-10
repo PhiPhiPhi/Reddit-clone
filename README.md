@@ -1,24 +1,63 @@
-# README
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <h3 align="center">Building reddit clone with Ruby on rails</h3>
+  <p align="center">
+    This project consists of building a simpler <a href ="http://www.reddit.com">reddit</a> clone with Ruby on rails
+    
+  </p>
+</p>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<!-- TABLE OF CONTENTS -->
 
-Things you may want to cover:
+## Table of Contents
 
-* Ruby version
+- [About the Project](#about-the-project)
+- [Built With](#built-with)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
-* System dependencies
+<!-- ABOUT THE PROJECT -->
 
-* Configuration
+## About The Project
 
-* Database creation
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-* Database initialization
+This is a solo project. I built a lighter reddit clone with Ruby on Rails ! It includes
 
-* How to run the test suite
+- Post CRUD
+- Up/Down vote system
+- Authentication
 
-* Services (job queues, cache servers, search engines, etc.)
+### Built With
 
-* Deployment instructions
+- Ruby
+- Bootstrap
+- vscode
 
-* ...
+<!-- LICENSE -->
+
+## License
+
+Distributed under the MIT License. See https://opensource.org/licenses/MIT for more information.
+
+<!-- CONTACT -->
+
+## Contact
+
+Philippe Odoubadé - philippejide@outlook.com - phika2013@gmail.com
+
+Project Link: [https://github.com/PhiPhiPhi/old-apple-clone](https://github.com/PhiPhiPhi/old-apple-clone)
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## Acknowledgements
+
+- apple.com for icons
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[product-screenshot]: public/screenshot.png
+
